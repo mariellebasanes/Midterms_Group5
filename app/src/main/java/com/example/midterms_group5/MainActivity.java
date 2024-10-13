@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     private TextInputEditText num1, num2, num3, num4, num5, num6;
     private TextView textView4, textView5, result; // Added result TextView
     private Button submitButton;
-
+//test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

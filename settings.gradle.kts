@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Midterms_Group8"
+rootProject.name = "Midterms_Group5"
 include(":app")
  
